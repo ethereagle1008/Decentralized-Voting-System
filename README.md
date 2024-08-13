@@ -10,7 +10,7 @@
 -  Removes the need for intermediaries, ensuring a trustless voting process.
 -  Admin panel to manage candidates, set voting dates, and monitor results.
 -  Intuitive UI for voters to cast votes and view candidate information.
-
+ 
 ## Requirements
 - Node.js (version – 18.14.0)
 - Metamask
